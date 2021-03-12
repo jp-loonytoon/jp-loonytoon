@@ -1,0 +1,1 @@
+- 👋 Hi, my name is James Page; I currently work as a product manager with CloudCall. My professional interests include NLP and speech technology, Item Response Theory (IRT) and how AI can be applied to language learning and assessment. 
