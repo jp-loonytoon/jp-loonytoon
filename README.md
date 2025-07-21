@@ -1,1 +1,1 @@
-- 👋 Hi, my name is James Page; I currently work as a product manager at [Builder.ai](https://www.builder.ai/). My professional interests include NLP and speech technology, Item Response Theory (IRT) and how AI can be applied to language learning and assessment. 
+- 👋 Hi, my name is James Page; I currently work as a product manager at [Tracsis](https://www.tracsis.com/). My professional interests include NLP and speech technology, Item Response Theory (IRT) and how AI can be applied to language learning and assessment. 
